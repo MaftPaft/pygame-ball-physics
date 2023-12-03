@@ -2,7 +2,7 @@ import pygame as pg
 from pyextensions import mygame as mg
 from pyextensions.mygame import black,white, circleCollides
 import random
-
+ff25FF5%^$*(^*Q)3#
 #initalize
 pg.init()
 #screen size
